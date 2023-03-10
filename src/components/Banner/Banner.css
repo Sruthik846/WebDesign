@@ -1,0 +1,135 @@
+.banner{
+    background: #161D26 0% 0% no-repeat padding-box;
+    height: 969px;
+}
+.details{
+    position: absolute;
+    top: 430px;
+    left: 373px;
+    width: 485px;
+    height: 252px;
+    opacity: 1;
+}
+.nameBox{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 124px;
+    height: 39px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #0CBFAE;
+    font-size: 28px;
+    font-weight: bold;
+}
+.name{
+    position: absolute;
+    top: 0px;
+    left: 145px;
+    width: 211px;
+    height: 39px;
+    color: var(--unnamed-color-f57f17);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #F57F17;
+}
+.creative_des{
+    position: absolute;
+    top: 45px;
+    width: 462px;
+    height: 71px;
+    color: var(--unnamed-color-0abead);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #0ABEAD;
+    opacity: 1;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.desc{
+    position: absolute;
+    top: 120px;
+    width: 485px;
+    height: 23px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #95A5C6;
+    opacity: 0.71;
+    font-size: 16px;
+
+}
+.hiremeButton{
+    position: absolute;
+    top: 190px;
+    width: 200px;
+    height: 60px;
+    background: #09BEAD 0% 0% no-repeat padding-box;
+    box-shadow: 0px 16px 29px #0BBEAD69;
+    border-radius: 30px;
+    opacity: 0.99;
+    color: white;
+    border: none;
+}
+.getResumeButton{
+    position: absolute;
+    top: 190px;
+    left: 245px;
+    width: 200px;
+    height: 60px;
+    background: var(--unnamed-color-f57f17) 0% 0% no-repeat padding-box;
+    background: #F57F17 0% 0% no-repeat padding-box;
+    box-shadow: 0px 16px 28px #F57F173D;
+    border-radius: 30px;
+    opacity: 1;
+    color: white;
+    border: none;
+}
+.profilebox{
+    position: absolute;
+    top: 275px;
+    left: 975px;
+    width: 500px;
+    height: 477px;
+    background: #1F2935 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border: 2px solid #1F2935;
+    border-radius: 450px;
+}
+.profile_pic{
+    width: 454px;
+    height: 436px;
+    border: 23px solid #1F2935;
+    border-radius: 450px;
+}
+.profileimg{
+    top: 298px;
+    left: 998px;
+    width: 524px;
+    height: 524px;
+    opacity: 1;
+}
+.shape{
+    position: absolute;
+    top: 759px;
+    /* left: -101.06079864501953px; */
+    width: 2114px;
+    height: 362px;
+
+    /* UI Properties */
+
+    background:#161D26 0% 0% no-repeat padding-box; 
+    opacity: 1;
+}
+.box {
+    --size: 153px;
+    --R: calc(var(--size)*1.28);
+
+    -webkit-mask:
+        radial-gradient(var(--R) at 50% calc(1.8*var(--size)),#000 99%,#0000 101%) 
+        calc(50% - 2*var(--size)) 0/calc(4*var(--size)) 100%,
+        radial-gradient(var(--R) at 50% calc(-.8*var(--size)),#0000 99%,#000 101%) 
+        50% var(--size)/calc(4*var(--size)) 100% repeat-x;
+    background: #1F2935 0% 0% no-repeat padding-box;
+    height: 362px;
+    maring: 15px;
+    }

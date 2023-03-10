@@ -1,0 +1,90 @@
+.aboutUsBox{
+    position: absolute;
+    top: 1214px;
+    left: 804px;
+    width: 240px;
+    height: 137px;
+    opacity: 1;
+}
+.aboutUs{
+    position: absolute;
+    width: 221px;
+    height: 67px;
+    color: var(--unnamed-color-0abead);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #0ABEAD;
+    opacity: 1;
+    font-size: 48px;
+    font-weight: 600;
+}
+.why_choose_me{
+    left: 10px;
+    position: absolute;
+    top: 80px;
+    width: 195px;
+    height: 23px;
+    text-align: left;
+    letter-spacing: 4px;
+    color: #95A5C6;
+    opacity: 1;
+    font-size: 16px;
+
+}
+.lineBox{
+    position: absolute;
+    top: 135px;
+    width: 240px;
+    height: 11px;
+    opacity: 1;
+}
+.line{
+    position: absolute;
+    width: 240px;
+    height: 0px;
+    border: 2px solid var(--unnamed-color-0abead);
+    border: 2px solid #0ABEAD;
+    opacity: 1;
+}
+.lineRectangle{
+    position: absolute;
+    top: -4px;
+    left: 90px;
+    width: 39px;
+    height: 11px;
+    background: var(--unnamed-color-0abead) 0% 0% no-repeat padding-box;
+    background: #0ABEAD 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+}
+.content{
+    position: absolute;
+    top: 1421px;
+    left: 375px;
+    width: 1170px;
+    height: 648px;
+    background: #1F2935 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.imgDiv{
+    position: absolute;
+    width: 570px;
+    height: 648px;
+    opacity: 1;
+}
+img{
+    height: 648px;
+    width: 570px;
+}
+.about{
+    position: absolute;
+    /* top: 1474px;
+    left: 987px; */
+    width: 218px;
+    height: 33px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #95A5C6;
+    opacity: 1;
+    font-size: 24px;
+}
